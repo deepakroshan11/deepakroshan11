@@ -6,6 +6,8 @@
 
 **`AI Engineer`** &nbsp;·&nbsp; Coimbatore, Tamil Nadu 🇮🇳
 
+🕐 &nbsp;`IST (UTC+5:30)` &nbsp;·&nbsp; same timezone
+
 *Building intelligent systems at the intersection of ML, cloud, and full-stack AI*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deepakroshan--adr-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/deepakroshan-adr)
