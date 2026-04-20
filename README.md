@@ -1,6 +1,6 @@
 # Hello there
 
-**AI Engineer** · Coimbatore, Tamil Nadu, India · IST (UTC+5:30)
+**AI Engineer** · Coimbatore, Tamil Nadu, India 
 
 * Building AI/ML solutions with cloud and full-stack systems
 * Portfolio → https://portfolio-orcin-nine-r0bxmvmfu0.vercel.app
