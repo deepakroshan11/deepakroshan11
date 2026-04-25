@@ -3,7 +3,7 @@
 **AI Engineer** · Coimbatore, Tamil Nadu, India 
 
 * Building AI/ML solutions with cloud and full-stack systems
-* Portfolio → https://portfolio-orcin-nine-r0bxmvmfu0.vercel.app
+* Portfolio → https://deepakroshan.is-a.dev/
 * Resume → Explore my experience and background
 * Open to discussions on machine learning, cloud systems, AI solutions, and full-stack development
 
